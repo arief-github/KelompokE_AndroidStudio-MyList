@@ -6,3 +6,5 @@ Anggota Kelompok :
 - Nanda Handayani
 - Siti Aisah Jamil
 - Rani Rohaeni
+
+https://github.com/arief-github/KelompokE_AndroidStudio-MyList.git
